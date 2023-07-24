@@ -1,0 +1,120 @@
+.contactgride {
+    display: grid;
+    width: 50%;
+    
+    }
+    .contactgrides {
+    display: grid;
+    width: 50%;
+    height: 130px;
+    
+    }
+    .contact-email {
+    display: block;
+    line-height: 1.8;
+    }
+    .texthding  {
+    margin-top: 0.3em;
+    text-align: center;
+    font-size: 72px;
+    line-height: 90px;
+    }
+    .contactpara{
+    text-align: center;
+    font-size: 40px;
+    line-height: 56px;
+    padding-left: 193px;
+    margin-right: 214px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    }
+    .contactname{
+    color: var(--global-palette2, #000);
+    font-size: 20px;
+    line-height: 23.46px;
+    text-align: initial;
+    }
+    .submitbtn {
+    margin: 23px;
+    width: 50%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    line-height: 2.6;
+    font-size: 18px;
+    text-align: center;
+    }
+    .taxtpara {
+    line-height: 2.6;
+    margin-bottom: 14px;
+    border: 1px solid;
+    color: #000;
+    font-weight: bold;
+    }
+    .contactcenter{
+    text-align: -webkit-center;
+    }
+    .contactbottom{
+        margin-top: 130px;
+    }
+    
+    @media (min-width:320px)  and (max-width:500px){
+    .texthding {
+    margin-top: 0.3em;
+    text-align: center;
+    font-size: 50px;
+    line-height: 90px;
+    }
+    .contactpara {
+    text-align: center;
+    font-size: 21px;
+    line-height: 30px;
+    padding-left: 0px;
+    margin-right: 0px;
+    
+    }
+    .contactgride{
+    display: grid;
+    width: 83%;
+    }
+    .contactgrides{
+    display: grid;
+    width: 83%;
+    height: 130px;
+    margin-left: 10px;
+    }
+    .submitbtn{
+    margin-top: 23px;
+    width:83%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    line-height: 2.6;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 10px;
+    }
+    .contactname {
+    color: var(--global-palette2, #000);
+    font-size: 20px;
+    line-height: 20.46px;
+    text-align: initial;
+    }
+    .contactbottom {
+        margin-top: 0px;
+    }
+    }
+    @media (min-width:768px) and (max-width:1024) {
+        .contactpara {
+            text-align: center;
+            font-size: 40px;
+            line-height: 56px;
+            padding-left: 0px !important;
+            margin-right: 0px !important;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .contactbottom {
+            margin-top: 0px;
+        }
+    }

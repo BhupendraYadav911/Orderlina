@@ -1,0 +1,47 @@
+.content-area{
+    padding: 5px;
+    background: #fafafa;
+    
+  }
+  .content-wrap {
+    position: relative;
+      
+}
+.container-data{
+    padding-top: 15rem !important;
+    padding-bottom: 82px !important;
+
+}
+.accLink{
+    color: #d50000;
+}
+.ulData{
+    font-weight: 400;
+}
+
+
+.article {
+    background-color: #fafafa;
+    z-index: 1;
+    position: relative;
+    border-radius: 0.25rem;
+    box-shadow: 0px 15px 15px -10px rgba(0,0,0,0.05);
+    width: 60%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* Styles for tablet and smaller screens */
+    .article {
+        width: 80%; /* Adjust the width for smaller screens */
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    /* Styles for mobile devices */
+    .article {
+        width: 100%; /* Make the width 100% to fill the screen */
+        padding: 10px; /* Adjust the padding for smaller screens */
+    }
+}

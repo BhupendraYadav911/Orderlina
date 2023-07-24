@@ -1,0 +1,354 @@
+.contData {
+    background-image: url(http://orderlina.com/wp-content/uploads/2023/06/QR-Menu-BG-2-jpg.webp);
+    background-size: cover;
+    background-size: 500px auto;
+  }
+  
+  .PriceHead {
+    text-align: center;
+    font-size: 80px;
+    margin: 1.5em 0 0.5em;
+  }
+  
+  .HeadDetail {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Work Sans';
+  }
+  
+  .rpt_plans {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+  }
+  
+  .pricePlan {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 2px;
+    width: 32%;
+    margin-right: 0.9%;
+    float: left;
+  }
+  
+  .pricePlan .rpt_title {
+    background-color: black !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .rpt_title img {
+    margin-right: 10px;
+    position: relative;
+    vertical-align: middle;
+    max-width: 30px;
+    max-height: 30px;
+  }
+  
+  .rpt_plan img {
+    display: inline;
+    margin: 0 10px 0 0;
+    padding: 0;
+    border: none;
+  }
+  
+  .pricePlan .rpt_head {
+    border-top: none !important;
+    background: #7e0303 !important;
+  }
+  
+  .rpt_recurrence,
+  .rpt_description {
+    color: #fff;
+  }
+  
+  .Multirpt_recurrence {
+    background: #574444 !important;
+  }
+  
+  .rpt_plan .rpt_head .rpt_recurrence {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    padding: 20px 40px 0;
+    color: lightgrey;
+    text-align: center;
+  }
+  
+  .rpt_plan .rpt_head .rpt_price {
+    padding: 6px 10px;
+    font-size: 77px;
+    line-height: 1em;
+    font-weight: 300;
+    text-align: center;
+    color: white;
+  }
+  
+  .rpt_plan .rpt_head .rpt_subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px 30px 20px;
+  }
+  
+  .rpt_plan .rpt_head .rpt_description {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 30px 20px;
+    font-weight: 300;
+    text-align: center;
+    color: #999;
+  }
+  
+  .rpt_plan .rpt_features {
+    padding: 10px 20px;
+    background: whitesmoke;
+    text-align: center;
+  }
+  
+  .rpt_plan .rpt_features .rpt_feature {
+    font-size: 15px;
+    line-height: 1.6em;
+    padding: 5px 16px;
+    border-bottom: 1px dotted lightgrey;
+  }
+  
+  .rpt_plan .rpt_foot {
+    display: block;
+    padding: 15px 25px;
+    border-top: whitesmoke solid 2px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 300;
+  }
+  
+  .rpt_title {
+    margin-bottom: -3px!important;
+    border-bottom: #111 solid 1px;
+    background: #222;
+    padding: 14px 18px;
+    font-size: 26px;
+    color: white;
+    line-height: 35px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .rpt_price {
+    font-size: 24px;
+    color: #d50000;
+    padding: 6px 10px;
+    font-size: 77px;
+    line-height: 1em;
+    font-weight: 300;
+    text-align: center;
+    color: white;
+  }
+  
+  .rpt_subtitle {
+    font-size: 16px;
+    color: #d50000;
+  }
+  
+  .rpt_description {
+    margin-top: 10px;
+  }
+  
+  .rpt_feature {
+    font-size: 16px;
+    line-height: 1.6em;
+    padding: 6px 16px;
+    border-bottom: 1px dotted lightgrey;
+  }
+  
+  .rpt_foot {
+    display: block;
+    padding: 15px 25px;
+    border-top: whitesmoke solid 2px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    background: #d50000;
+    font-weight: 300;
+  }
+  
+  .multiPricePlan {
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 2px;
+    width: 49%;
+    margin-right: 0.9%;
+    float: left;
+  }
+  
+  .chatHead {
+    margin-top: 0.3em;
+    text-align: center;
+    font-size: 40px;
+    line-height: 90px;
+  }
+  
+  .chatDetail {
+    text-align: center;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  
+  .formData {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 25px;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  
+  .formDetails {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    min-width: 0;
+    z-index: 1;
+  }
+  
+  .kb-form {
+    align-items: flex-end;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+    position: relative;
+    text-align: left;
+  }
+  
+  .kb-form-field {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 16px;
+    padding: 0 5px;
+    text-align: left;
+    width: 100%;
+  }
+  
+  .kb-field {
+    background-color: #fff;
+    border-radius: 3px;
+    color: #333;
+    flex-basis: 100%;
+    flex-grow: 1;
+    max-width: 100%;
+    min-height: 40px;
+    vertical-align: middle;
+    width: 100%;
+    z-index: 10;
+  }
+  
+  .kb-field-data {
+    font-size: 20px;
+    line-height: 23.46px;
+  }
+  
+  .input-text,
+  .textarea {
+    color: #000000;
+    font-size: medium;
+  }
+  
+  .kb-submit-field {
+    margin-bottom: 25px;
+    padding: 0 5px;
+    width: 100%;
+  }
+  
+  .kb-button-width-full {
+    width: 100%;
+    background: #000000;
+    border-color: var(--global-palette-btn-bg, #1768ea);
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    justify-content: center;
+    line-height: 1.8;
+    overflow: hidden;
+    padding: 8px 16px;
+    transition: all 0.3s ease-in-out;
+    z-index: 1;
+  }
+  .spacer {
+    height: 100px;
+  }
+  
+  
+  /* Styles for mobile screens */
+@media (max-width: 767px) {
+    .PriceHead {
+      font-size: 60px;
+      margin: 1em 0 0.5em;
+    }
+  
+    .HeadDetail {
+      font-size: 18px;
+    }
+  
+    .rpt_price {
+      font-size: 50px;
+    }
+  
+    .rpt_subtitle {
+      font-size: 14px;
+    }
+  
+    .rpt_feature {
+      font-size: 14px;
+    }
+  
+    .chatHead {
+      font-size: 30px;
+      line-height: 60px;
+    }
+  
+    .chatDetail {
+      font-size: 20px;
+      line-height: 30px;
+    }
+  
+    .kb-field-data {
+      font-size: 16px;
+      line-height: 20px;
+    }
+    .rpt_plans {
+        max-width: 100%;
+        margin: 0;
+        padding: 0 10px; /* Adjust the padding as needed */
+      }
+      .pricePlan {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+        float: none;
+      }
+      .multiPricePlan {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+        float: left;
+      }
+  }
+  
+  

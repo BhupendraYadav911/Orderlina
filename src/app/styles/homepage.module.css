@@ -1,0 +1,401 @@
+.sectionback{
+  background-image: url(http://orderlina.com/wp-content/uploads/2023/06/QR-Menu-BG-2-jpg.webp);
+    background-size: cover;
+    background-size: 500px auto;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.lastBack{
+  background-color: #fafafa;
+    background-size: cover;
+    background-size: 500px auto;
+}
+.imageContainer {
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.kadence-column_3cb881-96 {
+  max-height: 100%;
+
+  overflow: hidden;
+}
+.intkadence-column_3cb881-96 {
+  max-height: 100%;
+  overflow: hidden;
+}
+.kt-inside-inner-col {
+  background-image: url('http://orderlina.com/wp-content/uploads/2022/04/close-up-t-shirt-mockup-of-a-waiter-serving-breakfast-a20481-768x1024-min.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+.intkt-inside-inner-col {
+  background-image: url('https://orderlina.com/wp-content/uploads/2023/01/marcelasMain-min.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+.kadence-column_3cb881-96 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border-radius: 25px;
+}
+.intkadence-column_3cb881-96 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border-radius: 25px;
+}
+.kadence-column_3cb881-96 div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.intkadence-column_3cb881-96 div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.kadence-column_3cb881-96 figure {
+  background-color: white;
+  margin: 1rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 5rem;
+  width: 5rem;
+  border-radius: 10px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 1px 3px 0px, rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 2px 1px -1px;
+  margin: 1rem !important;
+  overflow: hidden;
+}
+.intkadence-column_3cb881-96 figure {
+  background-color: white;
+  margin: 1rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 7rem;
+  width: 7rem;
+  border-radius: 10px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 1px 3px 0px, rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 2px 1px -1px;
+  margin: 1rem !important;
+  overflow: hidden;
+}
+.kadence-column_3cb881-96 img {
+  border-radius: inherit;
+  max-width: 5rem;
+  max-height: 5rem;
+  padding: 0.5rem;
+  border-radius: 15px;
+}
+.intkadence-column_3cb881-96 img {
+  border-radius: inherit;
+  max-width: 7rem;
+  max-height: 7rem;
+  padding: 0.5rem;
+  border-radius: 15px;
+}
+.wp-block-image img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: bottom;
+}
+/* ///// */
+.spacer {
+  height: 100px;
+}
+.miniSpacer {
+  height: 50px;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 24px;
+}
+
+.btns {
+  color: #ffffff;
+  background: #d50000;
+  font-style: normal;
+  font-weight: regular;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top: 1px solid;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  padding-right: 55px;
+  padding-left: 55px;
+}
+.ViewBtn {
+  color: #8e8e8f;
+  background: #fff;
+  font-style: normal;
+  font-weight: regular;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top: 1px solid;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  border-left: 1px solid;
+  padding-right: 55px;
+  padding-left: 55px;
+}
+
+.buttonHead p {
+  font-size: 72px;
+  line-height: 90px;
+  font-weight: bold;
+}
+
+.buttonContainer h5 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.buttonContainer p {
+  margin-bottom: 20px;
+}
+
+.buttonGroup {
+  display: flex;
+  padding: 10px;
+}
+
+.contData {
+  margin-top: 30px !important;
+}
+.image {
+  width: 100%;
+  max-width: 600px; /* Adjust the max-width as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Centers the image horizontally */
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+/* Second Section css */
+
+.container {
+  margin-bottom: 30px;
+}
+
+.buttonContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.buttonGroup button {
+  margin-right: 10px;
+}
+
+
+
+/* Third Section css */
+
+/* styles.module.css */
+.insideinner {
+  display: flex;
+  flex-direction: column;
+  background-color: #f4ede7;
+
+  align-items: center;
+  padding: 10px; 
+  text-align: center;
+  height: 100%;
+  border-radius: 15px;
+}
+.HeadEasy {
+  text-align: center;
+  font-size: 56px;
+  line-height: 70px;
+}
+
+.achieve{
+  max-width: 100%;
+  height: auto;
+}
+.insideinnerdata {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px; /* Adjust the gap size as needed */
+  text-align: center;
+  height: 100%;
+  border-radius: 15px;
+  background-color: #f4ede7;
+}
+.borderRadius24{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.borderRadiusData{
+  border-radius: 24px;
+}
+
+.FlyerImages,
+.KitchenImages,
+.PaymentsImages,
+.FeatureImages {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+
+}
+
+/* Styles for specific image containers */
+.FlyerImages {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+
+}
+
+.KitchenImages {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.PaymentsImages {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.FeatureImages {
+  width: 100%;
+  border-radius: 20px;
+}
+
+/* Media queries for responsive adjustments */
+@media (min-width: 576px) {
+  .FlyerImages {
+    width: 397px;
+    height: 560px;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+  }
+
+  .KitchenImages {
+    width: 577px;
+    border-radius: 20px;
+  }
+
+  .PaymentsImages {
+    width: 577px;
+    border-radius: 20px;
+  }
+
+  .FeatureImages {
+    width: 350px;
+     border-radius: 20px;
+  }
+}
+
+.insideinnerdatas {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  border-radius: 15px;
+  background-color: #f4ede7;
+}
+
+.insideinnerdataHotel {
+  gap: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  border-radius: 15px;
+  background-color: #83a593;
+}
+.btnsHotel {
+  background: #83a593;
+  font-style: normal;
+  font-weight: 400;
+  border-radius: 0px;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid currentColor;
+  border-color: #fff;
+  box-shadow: 0px 0px 0px -7px rgba(0, 0, 0, 0);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .imageContainer {
+    max-width: 100%; /* Set the maximum width to 100% for smaller screens */
+  }
+  .buttonHead p {
+    font-size: 40px;
+    line-height: 55px;
+    
+  }
+  .FlyerImages {
+    
+    margin: 20px;
+    padding: 10px;
+  }
+  .KitchenImages {
+    
+    margin: 20px;
+    padding: 10px;
+  }
+  .PaymentsImages {
+    
+    margin: 20px;
+    padding: 10px;
+  }
+  .HeadEasy {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .insideinnerdata {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+  }
+}
